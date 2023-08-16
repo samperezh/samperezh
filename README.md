@@ -10,11 +10,11 @@
 
 **Tools & Frameworks**: Git, JUnit, Guice, Spring Boot, Mockito, React, Vue.js, Bootstrap, PostgreSQL, Postman, Docker, Bash, Vim, Gradle and Cucumber
 
-<!--## My Projects 💫
-Get to know my projects better [here]()! -->
+## My Projects 💫
+Get to know some of my projects better on my portfolio [here](https://github.com/samperezh/portfolio)!
 
 ## Connect with Me ☎️
-Reach out to me on [LinkedIn](https://www.linkedin.com/in/samantha-perez-hoffman/) !!
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/samantha-perez-hoffman/) :)
 
 <!--
 **samperezh/samperezh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
