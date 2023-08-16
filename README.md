@@ -6,7 +6,7 @@
 - I've done 2 STEP internships at Google (Google Chat in Waterloo 🍁 and Google Play in Mountain View 🦖)
 
 ## My Technical Experience 💻
-**Programming and Markup Languages**: Java, TypeScript, JavaScript, Python, Kotlin, C, HTML and CSS
+**Programming and Markup Languages**: Java, JavaScript, Kotlin, C, Python, TypeScript, HTML and CSS
 
 **Tools & Frameworks**: Git, JUnit, Guice, Spring Boot, Mockito, React, Vue.js, Bootstrap, PostgreSQL, Postman, Docker, Bash, Vim, Gradle and Cucumber
 
