@@ -1,4 +1,20 @@
-### Hi there 👋
+# 🌟 Hi there! I'm Samantha! 🌟
+
+## About Me in 30 Seconds ⏳
+- I'm a 3rd-year software engineering student at McGill University 📚🇨🇦
+- I have experience in **full-stack** development with a focus on **backend** development (but open to exploring new areas!) ⚙️📱
+- I've done 2 STEP internships at Google (Google Chat in Waterloo 🍁 and Google Play in Mountain View 🦖)
+
+## My Technical Experience 💻
+**Programming and Markup Languages**: Java, TypeScript, JavaScript, Python, Kotlin, C, HTML and CSS
+
+**Tools & Frameworks**: Git, JUnit, Guice, Spring Boot, Mockito, React, Vue.js, Bootstrap, PostgreSQL, Postman, Docker, Bash, Vim, Gradle and Cucumber
+
+<!--## My Projects 💫
+Get to know my projects better [here]()! -->
+
+## Connect with Me ☎️
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/samantha-perez-hoffman/) !!
 
 <!--
 **samperezh/samperezh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
