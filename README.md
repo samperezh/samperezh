@@ -10,7 +10,7 @@
 ## My Technical Experience 💻
 **Programming and Markup Languages**: Java, JavaScript, C#, Python, C++, C, Kotlin, TypeScript, HTML and CSS
 
-**Tools & Frameworks**: Git, JUnit, Guice, Spring Boot, Mockito, React, .NET, Azure DevOps, Kubernetes, Vue.js, Bootstrap, PostgreSQL, Postman, Docker, Bash, Vim, Gradle and Cucumber
+**Tools & Frameworks**: Git, JUnit, Guice, Spring Boot, Mockito, React, .NET, Azure DevOps, Kubernetes, Vue.js, Bootstrap, PostgreSQL, Postman, Docker, Bash, Vim, Bicep,  Gradle and Cucumber
 
 ## My Projects 💫
 Get to know some of my projects better on my portfolio [here](https://github.com/samperezh/portfolio)!
