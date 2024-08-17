@@ -1,11 +1,14 @@
 # 🌟 Hi there! I'm Samantha! 🌟
 
 ## About Me in 30 Seconds ⏳
-- I'm a 3rd-year software engineering student at McGill University 📚🇨🇦
+- I'm a 4th-year software engineering student at McGill University 📚🇨🇦
+- I'm on track to graduate May 2025 and I'm currently looking for new grad opportunities. 🔍
 - I have experience in **full-stack** development with a focus on **backend** development (but open to exploring new areas!) ⚙️📱
-- I've done a STEP internship at Google Chat in Waterloo 🍁 
-- I was a STEP intern again at Google Play in Mountain View 🦖
-- I also worked as a Software Engineer intern at Microsoft Xbox Game Studios in Vancouver 🎮
+- I've completed **4 internships**:
+  - I was a Software Engineer intern at Google Drive in Boulder 🏔️
+  - I was a Software Engineer intern at Microsoft Xbox Game Studios in Vancouver 🎮
+  - I was a STEP intern at Google Play in Mountain View 🦖
+  - I was a STEP intern at Google Chat in Waterloo 🍁 
 
 ## My Technical Experience 💻
 **Programming and Markup Languages**: Java, JavaScript, C#, Python, C++, C, Kotlin, TypeScript, HTML and CSS
