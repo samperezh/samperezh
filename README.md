@@ -1,8 +1,8 @@
 # 🌟 Hi there! I'm Samantha! 🌟
 
 ## About Me in 30 Seconds ⏳
-- I'm a 4th-year software engineering student at McGill University 📚🇨🇦
-- I'm on track to graduate May 2025 and I'm currently looking for new grad opportunities. 🔍
+- I'm a 4th-year software engineering student at **McGill University** 📚🇨🇦
+- I'm on track to **graduate May 2025** and I'm currently **looking for new grad opportunities**. 🔍
 - I have experience in **full-stack** development with a focus on **backend** development (but open to exploring new areas!) ⚙️📱
 - I've completed **4 internships**:
   - I was a Software Engineer intern at Google Drive in Boulder 🏔️
